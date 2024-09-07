@@ -1,5 +1,5 @@
 
-# MS-SCANet: A Cutting-Edge Approach to Blind Image Quality Assessment with Advanced Consistency Loss Strategies
+# MS-SCANet: A Multiscale Transformer-Based Architecture with Dual Attention for No-Reference Image Quality Assessment
 
 This repository contains the implementation of MS-SCANet, a transformer-based architecture designed for no-reference image quality assessment (IQA). MS-SCANet introduces a multi-branch structure that processes images at multiple scales, capturing both fine and coarse details to improve performance over traditional single-scale methods.
 
