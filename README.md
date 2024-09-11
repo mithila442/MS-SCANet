@@ -22,7 +22,7 @@ The following scripts are included in this repository:
 To use MS-SCANet, clone this repository and install the required dependencies:
 
 ```bash
-git clone git@git.txstate.edu:elx12/MS_SCANet.git
+git clone https://github.com/mithila442/MS-SCANet.git
 cd MS_SCANet
 pip install -r requirements.txt
 ```
