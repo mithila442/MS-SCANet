@@ -52,7 +52,7 @@ Extensive evaluations on the above-mentioned datasets show that MS-SCANet consis
 - **KonIQ-10k**: PLCC: 0.903, SROCC: 0.909
 - **LIVE**: PLCC: 0.968, SROCC: 0.964
 - **LIVE Challenge**: PLCC: 0.903, SROCC: 0.895
-- **CSIQ**: PLCC: 0.937, SROCC: 0.925
+- **CSIQ**: PLCC: 0.945, SROCC: 0.925
 
 
 ## Acknowledgments
